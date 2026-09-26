@@ -1,0 +1,10 @@
+name = "noma"
+compatibility_date = "2024-09-26"
+
+# Déploiement en mode Assets (site statique)
+[assets]
+directory = "."
+binding = "ASSETS"
+
+# Optionnel : personnaliser la route
+# routes = [{ pattern = "noma.ton-domaine.com", custom_domain = true }]
