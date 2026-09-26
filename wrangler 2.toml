@@ -1,6 +1,0 @@
-name = "noma"
-compatibility_date = "2024-09-26"
-
-# Site statique pur (HTML)
-[assets]
-directory = "."
